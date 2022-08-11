@@ -1,11 +1,11 @@
-# DS 13.1 - ML Application on Language Data
+# DS 13.2 - ML Application on Language Data
 
 ## Set Up
 
 - To use these notebooks on Google Colab, you will need to download or clone the repository and upload the specific notebook to Colab.
 - An easier approach is to use the [Open in Colab extension](https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo?hl=en). (You will need to use the [Google Chrome browser](https://www.google.com/chrome/))
 
-From here, you can navigate to the specific [Lesson Notebook]() and open the notebook Google Colab with the extension.
+From here, you can navigate to the specific [Lesson Notebook](https://github.com/bloominstituteoftechnology/ds_code_along_unit_4/blob/main/DS_13.2_ML_Application_on_Language_Data/starter_notebook/DS_13.2-Learner.ipynb) and open the notebook Google Colab with the extension.
 
 To install all dependencies into your environment, use the ```requirements.txt``` file that can  be found [Here](https://github.com/bloominstituteoftechnology/ds_code_along_unit_4/blob/main/requirements.txt)
 
